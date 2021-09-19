@@ -1,6 +1,10 @@
-Using docsify to host this site.
+Welcome Huobi ECO Chain Docs Site。
 
-```
-npm i docsify-cli -g
-docsify serve ./
-```
+Resources list：
+
+### [Testnet Info](en-us/testnet.md)
+
+### Tech Support And Help
+
+find us via suppport emmail, or social media.
+<DevContacts@huobi.com>

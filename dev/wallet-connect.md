@@ -1,8 +1,8 @@
 # 概述
 
-Wallet connect 是使得移动 App 钱包通过扫描网页二维码或者Deeplink 的方式绑定账户到 DApp 的协议。
+Wallet connect enable App wallet connect to DApp via QRCode or Deeplink.
 
-在使用这个协议的时候，DApp 与 移动 App 【核心需要做的修改】，是需要【配置支持的 Heco 网络】。
+When using this protocol the most critical modification in the Wallet and DApp is supporting Heco networs.
 
 例如：
 
