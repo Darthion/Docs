@@ -1,10 +1,10 @@
-Welcome Huobi ECO Chain Docs Site。
+Welcome Dithereum Docs Site。
 
 Resources list：
 
-### [Testnet Info](en-us/testnet.md)
+### [Testnet Info](testnet.md)
 
 ### Tech Support And Help
 
-find us via suppport emmail, or social media.
-<DevContacts@huobi.com>
+find us via Telegram.
+<https://t.me/Dithereum>
