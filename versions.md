@@ -1,1 +1,1 @@
-# Huobi Eco Chain Versions
+# Dithereum Versions
