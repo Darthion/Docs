@@ -1,10 +1,10 @@
-# 概述
+# Overview
 
 Wallet connect enable App wallet connect to DApp via QRCode or Deeplink.
 
-When using this protocol the most critical modification in the Wallet and DApp is supporting Heco networs.
+When using this protocol the most critical modification in the Wallet and DApp is supporting Dithereum networks.
 
-例如：
+For example：
 
 # Wallet app：
 

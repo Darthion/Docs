@@ -3,7 +3,7 @@
 3 levels: slow, medium, fast；
 
 ```
-curl https://tc.hecochain.com/price/prediction
+curl https://ditherscan.com/gastracker
 ```
 
 
@@ -12,7 +12,7 @@ curl https://tc.hecochain.com/price/prediction
     "code": 0,
     "prices": {
         "fast": 29,
-        "median": 1,
+        "mediam": 1,
         "low": 1
     }
 }

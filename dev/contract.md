@@ -1,5 +1,5 @@
 # Contract
-`Heco` use `EVM` for contract execution.See [Solidity](https://docs.soliditylang.org/en/v0.7.1/#) for detail.
+`Dithereum` uses `EVM` for contract execution.See [Solidity](https://docs.soliditylang.org/en/v0.7.1/#) for detail.
 
 ## Remix
 
@@ -29,7 +29,7 @@ Deploy contract to blockchain via wallet such as `MetaMask`.
 
 ![avatar](../../images/remix4.jpg)
 
-通过`MetaMask`即可将合约部署上链了
+The contract can be deployed on the chain through MetaMask
 
 
 ## Truffle

@@ -1,5 +1,5 @@
 # Genesis file
-Both the mainnet and testnet genesis information of `HECO` chain have been hardcoded in blockchain, and the corresponding genesis files are listed below for verification.
+Both the mainnet and testnet genesis information of `Dithereum` chain have been hardcoded in blockchain, and the corresponding genesis files are listed below for verification.
 
 ## Glossary 
 - chainId The unique identification of the chain.
@@ -8,12 +8,12 @@ Both the mainnet and testnet genesis information of `HECO` chain have been hardc
 - `number` `gasUsed` `parentHash` `nonce` `timestamp` `extraData` `gasLimit` `difficulty` are all parameters for genesis block.
 - `extraData` The initial validators is set up here.
 - `alloc` Configured initial account information that can be used for asset pre-allocation and pre-initialization of system contracts.
-    - 0xdaf88b74fca1246c6144bc846aaa3441ed095191 //Genesis account for HT
+    - 0xdaf88b74fca1246c6144bc846aaa3441ed095191 //Genesis account for DTH
     - 000000000000000000000000000000000000f000 //validators contract address 
     - 000000000000000000000000000000000000f001 // punish contract address
     - 000000000000000000000000000000000000f002 // proposal contract address
 
-  System contract repo: [huobi-eco-contracts](https://github.com/HuobiGroup/huobi-eco-contracts)
+  System contract repo: [Dithereum-System-Contracts](https://github.com/Dithereum/System-Contracts)
 
 ## mainnet
 ``` JSON

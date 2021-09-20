@@ -1,7 +1,7 @@
 # Consensus
-`Heco` adopts `HPoS` consensus mechanism with low transaction cost, low transaction latency, high transaction concurrency, and supports up to 21 validators.
+`Dithereum` adopts `DPoS` consensus mechanism with low transaction cost, low transaction latency, high transaction concurrency, and supports up to 21 validators.
 
-HPoS is a combination of PoA and Pos. To become a validator, you need to submit a proposal first and wait for other active validators to vote on it, after more than half of them pass, you will be eligible to become a validator. Any address can stake to an address that qualifies to become a validator, and after the validator's staking volume ranks in the top 21, it will become an active validator in the next epoch.
+DPoS is a combination of PoA and Pos. To become a validator, you need to submit a proposal first and wait for other active validators to vote on it, after more than half of them pass, you will be eligible to become a validator. Any address can stake to an address that qualifies to become a validator, and after the validator's staking volume ranks in the top 21, it will become an active validator in the next epoch.
 
 
 All active verifiers are ordered according to predefined rules and take turns to pack out blocks. If a validator fails to pack out a block in time in its own round, the active validators who have not involved  in the past n/2 (n is the number of active validators) blocks will randomly perform the block-out. At least n/2+1 active validators work properly to ensure the proper operation of the blockchain.
@@ -12,10 +12,10 @@ The difficulty value of a block is 2 when the block is generated normally and 1 
 ## Glossary 
 - validator. Responsible for packaging out blocks for on-chain transactions.
 - active validator. The current set of validators responsible for packing out blocks, with a maximum of 21.
-- epoch. Time interval in blocks, currently 1epoch = 200block on `Heco`. At the end of each epoch, the blockchain interacts with the system contracts to update active validators.
+- epoch. Time interval in blocks, currently 1epoch = 200block on `Dithereum`. At the end of each epoch, the blockchain interacts with the system contracts to update active validators.
 
-## System contract
-[huobi-eco-contracts](https://github.com/HuobiGroup/huobi-eco-contracts)
+## System contracts
+[Dithereum-System-Contracts](https://github.com/Dithereum/System-Contracts)
 
 The management of the current validators are all done by the system contracts.
 - Proposal  Responsible for managing access to validators and managing validator proposals and votes.
@@ -28,7 +28,7 @@ Blockchain call system contracts：
 - At the end of each epoch, the `Validators` contract is called to update active validators, based on the ranking.
 
 ## Staking
-For any account, any number of coins can be staked to the validator, and the minimum staking amount for each validator is `32HT`.
+For any account, any number of coins can be staked to the validator, and the minimum staking amount for each validator is `32DTH`.
 If you want to unstake, you need to do the following:
 1. Send an unstaking transaction for a validator to the `Validators` contract;
 2. Waiting for `86400` blocks before sending a transaction to `Validators` contract to withdraw all staking coins on this validator;

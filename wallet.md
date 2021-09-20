@@ -1,6 +1,6 @@
 # Summary
 
-Heco support metamask、huobi wallet app、huobi wallet extension
+Dithereum supports metamask and other EVM compatible wallets
 
 > NOTE: Check compitibility before using wallet, Ledger is not supported.
 
@@ -28,14 +28,3 @@ rpc: https://http-testnet.hecochain.com
 scan: https://testnet.hecoinfo.com
 ```
 
-# huobi wallet app
-
-https://www.huobiwallet.com/
-
-# huobi wallet extension
-
-> to release soon
-
-# cointtype for Heco
-
-https://github.com/satoshilabs/slips/blob/master/slip-0044.md

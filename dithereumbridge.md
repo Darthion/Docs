@@ -1,11 +1,11 @@
 # Introduction
-This document introduce the basic info of heco bridge:
+This document introduce the basic info of Dithereum Bridge:
 
 Contract Address：
 
 Ethereum： [0xa929022c9107643515f5c777ce9a910f0d1e490c](https://etherscan.io/address/0xa929022c9107643515f5c777ce9a910f0d1e490c)
 
-HECO: [0xa929022c9107643515f5c777ce9a910f0d1e490c](https://hecoinfo.com/address/0xa929022c9107643515f5c777ce9a910f0d1e490c)
+Dithereum: [0xa929022c9107643515f5c777ce9a910f0d1e490c](https://hecoinfo.com/address/0xa929022c9107643515f5c777ce9a910f0d1e490c)
 
 # How it works
 
@@ -17,7 +17,7 @@ The process is:：
 
 1）Submit application
 
-contact bd or <devcontacts@huobi.com>
+contact bd or <contact@dithereum.org>
 
 2）Deploy token contract
 
