@@ -1,5 +1,9 @@
 - [About Dithereum](intro.md)
-- [Integrity and Compliance](Integrity.md)
+- Governance
+    - [Foundation](Foundation.md)
+    - [Validator](Validator.md)
+    - [DTH Tokenomics](Tokenomics.md)
+    - [Integrity and Compliance](Integrity.md)
 - [Wallet](wallet.md)
 - [Asset-Peg Bridge](dithereumbridge.md)
 - [Asset-Peg Mamual](bridge.md)
