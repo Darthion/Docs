@@ -14,7 +14,7 @@ To empower the decentralised applications (Dapps) ecosystem
 Dithereum's vision is not only to be the best public blockchain, but also to focus on the discovery and support of high-potential developers and innovative projects. Relying on the world's largest trading ecosystem, Dithereum is committed to becoming the birthplace of innovative technologies and innovative businesses, and building a complete ecological loop of technology development, application promotion, and trading.
 
 ## Dithereum’s Performance
-- TPS: 500+
+- TPS: 100,000+
 - Average block interval: 3s
 
 ## Consensus Mechanism
