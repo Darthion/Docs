@@ -7,6 +7,7 @@
 - [Wallet](wallet.md)
 - [Asset-Peg Bridge](dithereumbridge.md)
 - [Asset-Peg Mamual](bridge.md)
+- [Dithereum Safety Network (DSN)](dsn.md)
 - [Consensus](consensus.md)
 - [Meta Transaction](dev/meta_tx.md)
 - [Genesis](genesis.md)
