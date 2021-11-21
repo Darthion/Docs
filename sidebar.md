@@ -28,6 +28,8 @@
     - [Announcement](Announcement.md)
 - FAQ
     - [FAQ](faq.md)
-- Disclaimer
+- Legal
     - [Disclaimer](disclaimer.md)
+    - [Terms of Service](tos.md)
+    - [Privacy Policty](privacy-policy.md)
     
