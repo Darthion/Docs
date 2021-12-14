@@ -9,7 +9,6 @@
 - [Asset-Peg Mamual](bridge.md)
 - [Dithereum Safety Network (DSN)](dsn.md)
 - [Consensus](consensus.md)
-- [Meta Transaction](dev/meta_tx.md)
 - [Genesis](genesis.md)
 - Developers
     - [Compile and Run](dev/install.md)
