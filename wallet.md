@@ -10,21 +10,21 @@ add custom network：
 
 ## mainnet
 
-download url：https://metamask.io/
+download url：https://metamask.io
 
 ```
-chainid: 128
-rpc: https://http-mainnet-node.huobichain.com
-scan: https://hecoinfo.com
+chainid: 24
+rpc: https://node-mainnet.dithereum.org
+scan: https://explorer.dithereum.org
 ```
 
-![metamask](../images/metamask2_en.png)
+![metamask](../images/metamask2.png)
 
 ## testnet
 
 ```
-chainid: 256
-rpc: https://http-testnet.hecochain.com
-scan: https://testnet.hecoinfo.com
+chainid: 34
+rpc: https://node-testnet.dithereum.org
+scan: https://testnet.dithereum.org
 ```
 

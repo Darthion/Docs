@@ -22,7 +22,6 @@
     - [Testnet](testnet.md)
     - [DApp-Governance](dev/dapp-gov.md)
     - [DRC20](dev/drc20.md)
-    - [WalletConnect](dev/wallet-connect.md)
     - [gasprice](dev/gasprice.md)
     - [Txpool](dev/txpool.md)
 - Announcement

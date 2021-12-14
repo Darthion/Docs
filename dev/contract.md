@@ -79,12 +79,12 @@ const mnemonic = fs.readFileSync(".secret").toString().trim();
 module.exports = {
   networks: {
     testnet: {
-      provider: () => new HDWalletProvider(mnemonic, 'https://http-testnet.hecochain.com'),
-      network_id: 256
+      provider: () => new HDWalletProvider(mnemonic, 'https://node-testnet.dithereum.org'),
+      network_id: 34
     },
     mainnet: {
-      provider: () => new HDWalletProvider(mnemonic, 'https://http-mainnet.hecochain.com'),
-      network_id: 128
+      provider: () => new HDWalletProvider(mnemonic, 'https://node-mainnet.dithereum.org'),
+      network_id: 24
     }
   },
 

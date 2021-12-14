@@ -119,10 +119,11 @@ Dithereum will strongly support the development of Dithereum ecosystem:
 
 
 ## Interact with Us on Social Media
-- Facebook：Dithereum
-- Twitter：Dithereum
-- Telegram： Dithereum
-- Github: Dithereum
+- YouTube: [https://www.youtube.com/channel/UCDPzTaaVk4ywEsLaf6nLAeQ](https://www.youtube.com/channel/UCDPzTaaVk4ywEsLaf6nLAeQ)
+- Facebook：[https://www.facebook.com/dithereum](https://www.facebook.com/dithereum)
+- Twitter：[https://twitter.com/dithereum](https://twitter.com/dithereum)
+- Telegram： [https://t.me/Dithereum](https://t.me/Dithereum)
+- Github: [https://github.com/dithereum](https://github.com/dithereum)
 
 ## Risk Warning
 - All users and developers can participate in the current test environment and subsequent stages of Dithereum for free, and there is no charging scenario.

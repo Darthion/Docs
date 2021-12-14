@@ -2,12 +2,12 @@
 
 ## chainid
 ```
-256
+34
 ```
 ## rpc
 ```
-https://http-testnet.hecochain.com
-wss://ws-testnet.hecochain.com
+https://node-testnet.dithereum.org
+wss://ws-testnet.dithereum.org
 ```
 
 ## explorer
@@ -18,5 +18,5 @@ https://testnet.ditherscan.com
 ## faucet
 
 ```
-https://testnet.ditherscan.com/faucet
+https://faucet.dithereum.org
 ```
