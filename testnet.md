@@ -6,12 +6,13 @@
 ```
 ## rpc
 ```
-https://node-testnet.dithereum.org
-wss://ws-testnet.dithereum.org
+https://node-testnet.dithereum.io
+wss://ws-testnet.dithereum.io
 ```
 
 ## explorer
 ```
+https://testnet.dithereum.org
 https://testnet.ditherscan.com
 ```
 

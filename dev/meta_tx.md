@@ -43,7 +43,7 @@ The expiration time for the subsidy is 1 day(28800 blocks)；
 
 ### API
 
-https://meta-mainnet.dithereum.org
+https://meta-mainnet.dithereum.io
 
 - Calculate the rate of subsidy
   

@@ -14,7 +14,7 @@ download url：https://metamask.io
 
 ```
 chainid: 24
-rpc: https://node-mainnet.dithereum.org
+rpc: https://node-mainnet.dithereum.io
 scan: https://explorer.dithereum.org
 ```
 
@@ -24,7 +24,7 @@ scan: https://explorer.dithereum.org
 
 ```
 chainid: 34
-rpc: https://node-testnet.dithereum.org
+rpc: https://node-testnet.dithereum.io
 scan: https://testnet.dithereum.org
 ```
 

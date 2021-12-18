@@ -8,12 +8,13 @@
 
 International visit:
 ```
-https://node-mainnet.dithereum.org
-wss://ws-mainnet.dithereum.org
+https://node-mainnet.dithereum.io
+wss://ws-mainnet.dithereum.io
 ```
 
 ## explorer
 ```
+https://explorer.dithereum.org
 https://ditherscan.com
 ```
 
