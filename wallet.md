@@ -13,9 +13,11 @@ Please add custom network in Metamask to start using Dithereum Mainnet and Testn
 Download url：https://metamask.io
 
 ```
-chainid: 24
-rpc: https://node-mainnet.dithereum.io
-scan: https://explorer.dithereum.org
+Network Name: Dithereum Mainnet
+New RPC URL: https://node-mainnet.dithereum.io
+Chain ID: 24
+Currency Symbol: DTH
+Block Explorer URL: https://explorer.dithereum.org
 ```
 
 ![metamask](../images/metamask2.png)
@@ -25,9 +27,11 @@ scan: https://explorer.dithereum.org
 Add Dithereum Testnet into Metamask:
 
 ```
-chainid: 34
-rpc: https://node-testnet.dithereum.io
-scan: https://testnet.dithereum.org
+Network Name: Dithereum Testnet
+New RPC URL: https://node-testnet.dithereum.io
+Chain ID: 34
+Currency Symbol: DTH
+Block Explorer URL: https://testnet.dithereum.org
 ```
 
 ![metamask](../images/metamask-testnet.png)
