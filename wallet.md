@@ -6,21 +6,9 @@ Dithereum supports metamask and other EVM compatible wallets
 
 # Metamask
 
-Please add custom network in Metamask to start using Dithereum Mainnet and Testnet：
+Please add custom network in Metamask to start using Dithereum Mainnet and Testnet. 
 
-## Dithereum Mainnet
-
-Download url：https://metamask.io
-
-```
-Network Name: Dithereum Mainnet
-New RPC URL: https://node-mainnet.dithereum.io
-Chain ID: 24
-Currency Symbol: DTH
-Block Explorer URL: https://ditherscan.com
-```
-
-![metamask](../images/metamask2.png)
+Please download Metamask from its official website：https://metamask.io
 
 ## Dithereum Testnet
 
@@ -35,3 +23,18 @@ Block Explorer URL: https://testnet.dithereum.org
 ```
 
 ![metamask](../images/metamask-testnet.png)
+
+## Dithereum Mainnet
+
+Add Dithereum Mainnet into Metamask:
+
+```
+Network Name: Dithereum Mainnet
+New RPC URL: https://node-mainnet.dithereum.io
+Chain ID: 24
+Currency Symbol: DTH
+Block Explorer URL: https://ditherscan.com
+```
+
+![metamask](../images/metamask2.png)
+
