@@ -1,4 +1,4 @@
-# Summary
+# Dithereum Wallet
 
 Dithereum supports metamask and other EVM compatible wallets
 
