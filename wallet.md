@@ -17,7 +17,7 @@ Network Name: Dithereum Mainnet
 New RPC URL: https://node-mainnet.dithereum.io
 Chain ID: 24
 Currency Symbol: DTH
-Block Explorer URL: https://explorer.dithereum.org
+Block Explorer URL: https://ditherscan.com
 ```
 
 ![metamask](../images/metamask2.png)
