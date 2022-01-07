@@ -4,13 +4,13 @@ Dithereum supports metamask and other EVM compatible wallets
 
 > NOTE: Check compitibility before using wallet, Ledger is not supported.
 
-# metamask
+# Metamask
 
-add custom network：
+Please add custom network in Metamask to start using Dithereum Mainnet and Testnet：
 
-## mainnet
+## Dithereum Mainnet
 
-download url：https://metamask.io
+Download url：https://metamask.io
 
 ```
 chainid: 24
@@ -20,7 +20,9 @@ scan: https://explorer.dithereum.org
 
 ![metamask](../images/metamask2.png)
 
-## testnet
+## Dithereum Testnet
+
+Add Dithereum Testnet into Metamask:
 
 ```
 chainid: 34
@@ -28,3 +30,4 @@ rpc: https://node-testnet.dithereum.io
 scan: https://testnet.dithereum.org
 ```
 
+![metamask](../images/metamask-testnet.png)
