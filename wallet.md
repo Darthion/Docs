@@ -20,6 +20,7 @@ New RPC URL: https://node-testnet.dithereum.io
 Chain ID: 34
 Currency Symbol: DTH
 Block Explorer URL: https://testnet.dithereum.org
+                    https://testnet.ditherscan.com
 ```
 
 ![metamask](../images/metamask-testnet.png)
