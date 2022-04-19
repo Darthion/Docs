@@ -48,7 +48,7 @@ CacheDir = "ethash"
 CachesInMem = 2
 CachesOnDisk = 3
 CachesLockMmap = false
-DatasetDir = "/data/dithereum/data/.ethash"
+DatasetDir = "/data/Darthion/data/.ethash"
 DatasetsInMem = 1
 DatasetsOnDisk = 2
 DatasetsLockMmap = false
@@ -68,7 +68,7 @@ GlobalQueue = 1024
 Lifetime = 10800000000000
 
 [Node]
-DataDir = "/data/dithereum/data"
+DataDir = "/data/Darthion/data"
 InsecureUnlockAllowed = true
 NoUSB = true
 IPCPath = "geth.ipc"
@@ -117,10 +117,10 @@ SyncMode = "full"
 
 ```
 #!/usr/bin/env bash
-/data/dithereum/geth-linux-amd64 \
---config /data/dithereum/config.toml  \
---logpath /data/dithereum/logs \
---verbosity 3  >> /data/dithereum/logs/systemd_chain_console.out 2>&1
+/data/Darthion/geth-linux-amd64 \
+--config /data/Darthion/config.toml  \
+--logpath /data/Darthion/logs \
+--verbosity 3  >> /data/Darthion/logs/systemd_chain_console.out 2>&1
 ```
 
 if you need to use it as archive node, add：
@@ -134,15 +134,15 @@ so：
 
 ```
 #!/usr/bin/env bash
-/data/dithereum/geth-linux-amd64 \
---config /data/dithereum/config.toml  \
---logpath /data/dithereum/logs \
+/data/Darthion/geth-linux-amd64 \
+--config /data/Darthion/config.toml  \
+--logpath /data/Darthion/logs \
 --syncmode full \
 --gcmode archive \
---verbosity 3  >> /data/dithereum/logs/systemd_chain_console.out 2>&1
+--verbosity 3  >> /data/Darthion/logs/systemd_chain_console.out 2>&1
 ```
 
-If no any network flags were provided, the node will connect the dithereum-mainnet by default. If you want to connect to dithereum-testnet, add:
+If no any network flags were provided, the node will connect the Darthion-mainnet by default. If you want to connect to Darthion-testnet, add:
 
 ```
 --testnet
@@ -152,11 +152,11 @@ If no any network flags were provided, the node will connect the dithereum-mainn
 
 ```
 [Unit]
-Description=dithereum service
+Description=Darthion service
 
 [Service]
 Type=simple
-ExecStart=/bin/sh /data/dithereum/run.sh
+ExecStart=/bin/sh /data/Darthion/run.sh
 
 Restart=on-failure
 RestartSec=5s

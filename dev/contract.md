@@ -1,5 +1,5 @@
 # Contract
-`Dithereum` uses `EVM` for contract execution.See [Solidity](https://docs.soliditylang.org/en/v0.7.1/#) for detail.
+`Darthion` uses `EVM` for contract execution.See [Solidity](https://docs.soliditylang.org/en/v0.7.1/#) for detail.
 
 ## Remix
 
@@ -79,11 +79,11 @@ const mnemonic = fs.readFileSync(".secret").toString().trim();
 module.exports = {
   networks: {
     testnet: {
-      provider: () => new HDWalletProvider(mnemonic, 'https://node-testnet.dithereum.io'),
+      provider: () => new HDWalletProvider(mnemonic, 'https://node-testnet.Darthion.io'),
       network_id: 34
     },
     mainnet: {
-      provider: () => new HDWalletProvider(mnemonic, 'https://node-mainnet.dithereum.io'),
+      provider: () => new HDWalletProvider(mnemonic, 'https://node-mainnet.Darthion.io'),
       network_id: 24
     }
   },

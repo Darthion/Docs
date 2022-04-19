@@ -3,14 +3,14 @@
 ## Download
 Download source code via `git`
 ```
-    git clone https://github.com/Dithereum/Dithereum-Core.git
+    git clone https://github.com/Darthion/Darthion-Core.git
 ```
 ## Install Golang
 Reference: [Go Download and install](https://golang.org/doc/install)
 
 ## Compile
 ```
-cd /path/to/Dithereum
+cd /path/to/Darthion
 make geth
 ```
 > If you want to use cross compile, like compiling on `Mac` for `Linux`, use `make geth-linux`, `make geth-linux-amd64`, etc.

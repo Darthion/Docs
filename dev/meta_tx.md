@@ -5,7 +5,7 @@ A meta-transaction is essentially an operation that fulfils a fee payment in pro
 
 # Java Demo 
 
-https://github.com/Dithereum/metatx-Java-demo
+https://github.com/Darthion/metatx-Java-demo
 
 ## Build meta transaction
 - Obtain the original `rawTransaction` information.
@@ -33,7 +33,7 @@ https://github.com/Dithereum/metatx-Java-demo
 - Broadcast `rawTransaction` to blockchain；
 
 ## Official Meta Transaction Service
-Dithereum officially provides a meta transaction service with a fee subsidy based on the caller's `DTH` holdings.
+Darthion officially provides a meta transaction service with a fee subsidy based on the caller's `DTH` holdings.
 
 The expiration time for the subsidy is 1 day(28800 blocks)；
 
@@ -43,7 +43,7 @@ The expiration time for the subsidy is 1 day(28800 blocks)；
 
 ### API
 
-https://meta-mainnet.dithereum.io
+https://meta-mainnet.Darthion.io
 
 - Calculate the rate of subsidy
   

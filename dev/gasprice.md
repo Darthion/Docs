@@ -3,7 +3,7 @@
 3 levels: slow, medium, fast；
 
 ```
-curl https://ditherscan.com/gastracker
+curl https://darthscan.com/gastracker
 ```
 
 
