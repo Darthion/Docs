@@ -1,8 +1,8 @@
-# Dithereum Smart Contract Platform
+# Darthion Smart Contract Platform
 
 
-## Introduction to the Dithereum Platform
-The Dithereum Platform is a unified infrastructure platform based on the technical, traffic and ecological resources, and will be gradually open to the blockchain industry. It will make the construction of decentralized applications more efficient and cost-effective, and provide comprehensive empowerment in aspects of promotion, traffic, and resources. The Dithereum Platform is an EVM compatible blockchain who solves the biggest problem of Dapp industry. The Dithereum Platform will provide global developers with series of diverse innovative facilities and services.
+## Introduction to the Darthion Platform
+The Darthion Platform is a unified infrastructure platform based on the technical, traffic and ecological resources, and will be gradually open to the blockchain industry. It will make the construction of decentralized applications more efficient and cost-effective, and provide comprehensive empowerment in aspects of promotion, traffic, and resources. The Darthion Platform is an EVM compatible blockchain who solves the biggest problem of Dapp industry. The Darthion Platform will provide global developers with series of diverse innovative facilities and services.
 
 ## Solving market's biggest problem
 ​Decentralized applications (Dapps) running on any blockchain contribute to the biggest use case of the blockchain industry. Many such Dapps face cash flow problems. They have many users and lots of transactions in their smart contracts, but they do not gain anything from those transactions. All the transaction fees paid by the users go to miners (or stakers in PoS blockchain). This creates a scenario of "Rich getting richer and poor getting poorer". We solved this painful industry problem through our innovative technology, where smart contract deployers also gain some percentage of the transaction fee paid by the smart contract user. This will create a huge positive cash flow to the Dapp developers and help them run the Dapp project smoothly and they can carry on their innovative development in the blockchain ecosystem.
@@ -11,9 +11,9 @@ The Dithereum Platform is a unified infrastructure platform based on the technic
 To empower the decentralised applications (Dapps) ecosystem 
 
 ## Vision
-Dithereum's vision is not only to be the best public blockchain, but also to focus on the discovery and support of high-potential developers and innovative projects. Relying on the world's largest trading ecosystem, Dithereum is committed to becoming the birthplace of innovative technologies and innovative businesses, and building a complete ecological loop of technology development, application promotion, and trading.
+Darthion's vision is not only to be the best public blockchain, but also to focus on the discovery and support of high-potential developers and innovative projects. Relying on the world's largest trading ecosystem, Darthion is committed to becoming the birthplace of innovative technologies and innovative businesses, and building a complete ecological loop of technology development, application promotion, and trading.
 
-## Dithereum’s Performance
+## Darthion’s Performance
 - TPS: 100,000+
 - Average block interval: 3s
 
@@ -28,35 +28,35 @@ The endogenous token on the chain is DTH; the transactions consume DTH as gas fe
 Miners pledge DTH to become validator nodes. The reward of nodes is gas fee, which is distributed according to the mortgage proportion. 
 
 ## Cross-Chain
-Assets such as BTC, ETH and stable coins can be mapped to Dithereum by an asset bridge. The realization method is to lock a certain amount of tokens on the original chain then generate a corresponding number of tokens on Dithereum. 
+Assets such as BTC, ETH and stable coins can be mapped to Darthion by an asset bridge. The realization method is to lock a certain amount of tokens on the original chain then generate a corresponding number of tokens on Darthion. 
 
-Dithereum encourages developers to provide more decentralized cross-chain solution.  
+Darthion encourages developers to provide more decentralized cross-chain solution.  
 
 ## Meta Transaction Function
-The meta-transaction function is supported, which allows users to reduce gas fees step-wise, and Dithereum will cover the payment of the reduced part. The meta-transaction function allows to minimize the migration cost of DApp developers, as well as to effectively reduce the cost of DApp users.
+The meta-transaction function is supported, which allows users to reduce gas fees step-wise, and Darthion will cover the payment of the reduced part. The meta-transaction function allows to minimize the migration cost of DApp developers, as well as to effectively reduce the cost of DApp users.
 
-## Dithereum Technical Characteristics
+## Darthion Technical Characteristics
 - An open and decentralized network to maintain the security of the network and assets.
 - Support the programmability of EVM, the compatibility of smart contracts to reduce development or migration costs.
 - Meta-transaction function: gas fee reduction, effectively reducing the cost of developers and users on the chain.
 - Support cross-chain asset transfer to optimize users’ experience.
 
-## Dithereum Roadmap
+## Darthion Roadmap
 
 <table >
-    <tr style="background:rgba(0,0,0,0)" ><th colspan=5>Dithereum Technical Route</th> </tr>
+    <tr style="background:rgba(0,0,0,0)" ><th colspan=5>Darthion Technical Route</th> </tr>
     <tr style="background:rgba(0,0,0,0)" >
 <th > Stage </th><th> Features </th><th> Time </th><th> Sub Stage </th><th> Technical Points </th>
 </tr>
 <tr style="background:rgba(0,0,0,0)" >
 <tr style="background:rgba(0,0,0,0)" ><td rowspan=9 >Phase 1</td><td rowspan=9 >
-The initial version of Dithereum.
+The initial version of Darthion.
 
 The system is stable and easy to use.
 
 Developers can develop and promote Dapp at low cost.
 
-Users can participate in Dapp on Dithereum with a low threshold.</td><td rowspan=9 >2022 Q1</td><td rowspan=3 >Public Beta</td><td>Higher transaction performance</td></tr>
+Users can participate in Dapp on Darthion with a low threshold.</td><td rowspan=9 >2022 Q1</td><td rowspan=3 >Public Beta</td><td>Higher transaction performance</td></tr>
 <tr style="background:rgba(0,0,0,0)" ><td>Lower transaction costs</td></tr>
 <tr style="background:rgba(0,0,0,0)"><td>Meta transaction subsidy</td></tr>
 <tr style="background:rgba(0,0,0,0)"> <td rowspan=3 >Node Election</td><td>More decentralized and safer</td></tr>
@@ -69,7 +69,7 @@ Users can participate in Dapp on Dithereum with a low threshold.</td><td rowspan
 <tr style="background:rgba(0,0,0,0)"><td rowspan=5 > Phase 2 </td><td rowspan=5 > 
 The protocol is further optimized. 
 
-Dithereum will take the mission of connecting CeFi and DeFi, 
+Darthion will take the mission of connecting CeFi and DeFi, 
 
 allowing more users to use DeFi applications at a low threshold.  </td> <td rowspan=5 >2022 Q2 </td> <td rowspan=5 > To be announced  </td> <td>Complete developer tools</td></tr>
 <tr style="background:rgba(0,0,0,0)"><td>Complete developer forum, blog, and FAQ information</td></tr>
@@ -97,36 +97,36 @@ Support a variety of traditional businesses to run smoothly on the chain</td> <t
 
 
 
-## Current Stage of Dithereum
-In the quarter 4 of 2021, the Dithereum officially launches its "Initial" phase 1, which will focus on improving the on-chain infrastructure, including but not limited to:
+## Current Stage of Darthion
+In the quarter 4 of 2021, the Darthion officially launches its "Initial" phase 1, which will focus on improving the on-chain infrastructure, including but not limited to:
 Oracles, Voting tools, Anchor Coins, DEX, Lending, Fnancial Management, Insurance, Synthetic Assets, Cross-Chain Solutions, Data Analysis, Smart Contract Innovation, etc.
 
-## Support Plan of Dithereum
+## Support Plan of Darthion
 ### Financial Support
-- Dithereum will set up a special fund to invest, support and incentivize high-potential developers.
-- Dithereum will launch a variety of developer activities and competitions to discover and fund potential developers. 
-- In order to reduce the cost of users on Dithereum Dapp, the Dithereum meta transaction function will reduce the gas fee of users holding DTH in a step-wise manner.
+- Darthion will set up a special fund to invest, support and incentivize high-potential developers.
+- Darthion will launch a variety of developer activities and competitions to discover and fund potential developers. 
+- In order to reduce the cost of users on Darthion Dapp, the Darthion meta transaction function will reduce the gas fee of users holding DTH in a step-wise manner.
 
 ### Traffic Support
-Dithereum will strongly support the development of Dithereum ecosystem:
-- Provide traffic entrance for high-quality Dapp on Dithereum.
-- After running successfully on Dithereum, high-quality projects can submit token listing application to Dithereum trading platform, and can be listed on it if they meet the listing standards.
+Darthion will strongly support the development of Darthion ecosystem:
+- Provide traffic entrance for high-quality Dapp on Darthion.
+- After running successfully on Darthion, high-quality projects can submit token listing application to Darthion trading platform, and can be listed on it if they meet the listing standards.
 
 ### Resource Support
-- Projects or developers that have received investment and support from Dithereum have not only the opportunity to get official news report, but also can apply for marketing service packages and promote their projects globally.
-- High-quality projects can participate in Dithereum foundation roadshows for free.
-- Dithereum will open up ecological resources to high-potential developers, matching the win-win cooperation between developers and our ecological partners.
+- Projects or developers that have received investment and support from Darthion have not only the opportunity to get official news report, but also can apply for marketing service packages and promote their projects globally.
+- High-quality projects can participate in Darthion foundation roadshows for free.
+- Darthion will open up ecological resources to high-potential developers, matching the win-win cooperation between developers and our ecological partners.
 
 
 ## Interact with Us on Social Media
 - YouTube: [https://www.youtube.com/channel/UCDPzTaaVk4ywEsLaf6nLAeQ](https://www.youtube.com/channel/UCDPzTaaVk4ywEsLaf6nLAeQ)
-- Facebook：[https://www.facebook.com/dithereum](https://www.facebook.com/dithereum)
-- Twitter：[https://twitter.com/dithereum](https://twitter.com/dithereum)
-- Telegram： [https://t.me/Dithereum](https://t.me/Dithereum)
-- Github: [https://github.com/dithereum](https://github.com/dithereum)
+- Facebook：[https://www.facebook.com/Darthion](https://www.facebook.com/Darthion)
+- Twitter：[https://twitter.com/Darthion](https://twitter.com/Darthion)
+- Telegram： [https://t.me/Darthion](https://t.me/Darthion)
+- Github: [https://github.com/Darthion](https://github.com/Darthion)
 
 ## Risk Warning
-- All users and developers can participate in the current test environment and subsequent stages of Dithereum for free, and there is no charging scenario.
+- All users and developers can participate in the current test environment and subsequent stages of Darthion for free, and there is no charging scenario.
 - All users must distinguish the test environment from the Mainnet. The assets generated in the test environment have no value. Be aware of counterfeit currency fraud.
-- Dithereum announces authorization, promotion and other collaborations only through the official social media platform. Developers and users should check carefully to avoid losses.
-- Do not misread the official website (Dithereum.org), and be cautious with private key phishing.
+- Darthion announces authorization, promotion and other collaborations only through the official social media platform. Developers and users should check carefully to avoid losses.
+- Do not misread the official website (Darthion.org), and be cautious with private key phishing.
