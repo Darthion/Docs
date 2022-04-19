@@ -1,4 +1,4 @@
-Welcome Dithereum Docs Site。
+Welcome Darthion Docs Site。
 
 Resources list：
 
@@ -7,4 +7,4 @@ Resources list：
 ### Tech Support And Help
 
 find us via Telegram.
-<https://t.me/Dithereum>
+<https://t.me/Darthion>

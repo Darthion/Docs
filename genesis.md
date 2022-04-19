@@ -1,5 +1,5 @@
 # Genesis file
-Both the mainnet and testnet genesis information of `Dithereum` chain have been hardcoded in blockchain, and the corresponding genesis files are listed below for verification.
+Both the mainnet and testnet genesis information of `Darthion` chain have been hardcoded in blockchain, and the corresponding genesis files are listed below for verification.
 
 ## Glossary 
 - chainId The unique identification of the chain.
@@ -13,7 +13,7 @@ Both the mainnet and testnet genesis information of `Dithereum` chain have been 
     - 000000000000000000000000000000000000f001 // punish contract address
     - 000000000000000000000000000000000000f002 // proposal contract address
 
-  System contract repo: [Dithereum-System-Contracts](https://github.com/Dithereum/System-Contracts)
+  System contract repo: [Darthion-System-Contracts](https://github.com/Darthion/System-Contracts)
 
 ## mainnet
 ``` JSON

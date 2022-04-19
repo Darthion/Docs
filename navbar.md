@@ -1,4 +1,4 @@
-- [Homepage](https://dithereum.org/)
+- [Homepage](https://darthion.org/)
 - Translations
   - [:uk: English](/intro)
 

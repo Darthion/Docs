@@ -5,7 +5,7 @@ Dear users:
 
 Hold your seat. A game changer storm is coming..
 
-Dithereum Team
+Darthion Team
 
 September 20, 2021
 

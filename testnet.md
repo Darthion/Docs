@@ -6,18 +6,18 @@
 ```
 ## rpc
 ```
-https://node-testnet.dithereum.io
-wss://ws-testnet.dithereum.io
+https://node-testnet.darthion.io
+wss://ws-testnet.darthion.io
 ```
 
 ## explorer
 ```
-https://testnet.dithereum.org
-https://testnet.ditherscan.com
+https://testnet.darthion.org
+https://testnet.darthscan.com
 ```
 
 ## faucet
 
 ```
-https://faucet.dithereum.org
+https://faucet.darthion.org
 ```

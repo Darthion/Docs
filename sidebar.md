@@ -1,13 +1,13 @@
-- [About Dithereum](intro.md)
+- [About Darthion](intro.md)
 - Governance
     - [Foundation](Foundation.md)
     - [Validator](Validator.md)
     - [DTH Tokenomics](Tokenomics.md)
     - [Integrity and Compliance](Integrity.md)
 - [Wallet](wallet.md)
-- [Asset-Peg Bridge](dithereumbridge.md)
+- [Asset-Peg Bridge](bridge2.md)
 - [Asset-Peg Mamual](bridge.md)
-- [Dithereum Safety Network (DSN)](dsn.md)
+- [Darthion Safety Network (DSN)](dsn.md)
 - [Consensus](consensus.md)
 - [Genesis](genesis.md)
 - Developers
